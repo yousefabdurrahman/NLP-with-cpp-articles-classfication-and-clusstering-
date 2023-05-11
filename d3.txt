@@ -1,0 +1,17 @@
+we can’t run the modern world without software. National infrastructures and utilities are controlled by computer-based systems and most electrical products include a
+computer and controlling software. Industrial manufacturing and distribution is
+completely computerized, as is the financial system. Entertainment, including the
+music industry, computer games, and film and television, is software intensive.
+Therefore, software engineering is essential for the functioning of national and international societies.
+Software systems are abstract and intangible. They are not constrained by the
+properties of materials, governed by physical laws, or by manufacturing processes.
+This simplifies software engineering, as there are no natural limits to the potential of
+software. However, because of the lack of physical constraints, software systems can
+quickly become extremely complex, difficult to understand, and expensive to change.
+There are many different types of software systems, from simple embedded systems to complex, worldwide information systems. It is pointless to look for universal
+notations, methods, or techniques for software engineering because different types
+of software require different approaches. Developing an organizational information
+system is completely different from developing a controller for a scientific instrument. Neither of these systems has much in common with a graphics-intensive computer game. All of these applications need software engineering; they do not all need
+the same software engineering techniques.
+There are still many reports of software projects going wrong and ‘software failures’.
+Software engineering is criticized as inadequate for modern software development.

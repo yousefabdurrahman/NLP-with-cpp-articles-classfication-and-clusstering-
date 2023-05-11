@@ -1,0 +1,24 @@
+Types of Databases and database 
+Applications 
+▪ Traditional database applications
+▪ Numerical and textual databases
+▪ Store textual or numeric information
+▪ Multimedia databases
+▪ Store images, audio clips, and video streams digitally
+▪ Geographic information systems (GIS) 
+▪ Store and analyze maps, weather data, and satellite images
+▪ Data warehouses and online analytical processing (OLAP) systems 
+▪ Extract and analyze useful business information from very large databases 
+▪ Support decision making
+ Ramez Elmasri and Shamkant Navathe
+Basic Definitions 
+▪ Database 
+▪ Collection of related data
+▪ Data
+▪ Known facts that can be recorded and that have implicit meaning.
+▪ For example: names, telephone numbers, and addresses.
+▪ Mini-world or Universe of Discourse (UoD)
+▪ Represents some aspect of the real world which is stored in a database.
+▪ Logically coherent collection of data with inherent meaning
+▪ Built for a specific purpose
+▪ For example, student grades at a universit

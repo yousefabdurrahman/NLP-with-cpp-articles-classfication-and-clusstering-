@@ -1,0 +1,68 @@
+Europe's Vega rocket crashes back to Earth
+Artwork of the Zefiro 40 stage firing on the Vega-C rocket
+Jonathan Amos, Science correspondent
+By Jonathan Amos
+BBC Science Correspondent
+@BBCAmos
+Europe's premier small rocket has failed in flight once again.
+
+The Vega vehicle was lost 2.5 minutes into its latest mission from the Kourou spaceport in French Guiana.
+
+It was carrying two French-built, high-resolution Earth imaging spacecraft.
+
+This is the third Vega failure in eight outings and puts further pressure on the European satellite sector which no longer has use of Russian rockets and will soon witness the retirement of the heavy-lift Ariane-5 launcher.
+
+The follow-on replacement, Ariane-6, is a year at least from entering service.
+
+Successful debut flight for Europe's Vega-C rocket
+Europe's research ministers agree €16.9bn space budget
+Debut for next Ariane rocket is pushed back again
+It was the new variant of Vega, known as Vega C, that failed. This rocket has four stages in total, most of which burn a solid fuel.
+
+It lifted away from Kourou at 22:47 local time on Tuesday (03:47 CET/02:47 GMT on Wednesday).
+
+The motor on the first stage, called P120C, appeared to perform without issue.
+
+The anomaly occurred in the rocket's second-stage, the Zefiro 40.
+
+An immediate analysis pointed to a drop in pressure in the combustion chamber of the segment. Real-time flight tracking showed the rocket unable to maintain its planned trajectory, and a command was sent to Vega to self-destruct. The vehicle and its Pléiades Neo Earth observation satellites crashed down into the Atlantic.
+
+"The launcher came down in the international maritime zone, safely," said Pierre-Yves Tissier, the chief technical officer of Arianespace, the company that runs the Kourou spaceport. He confirmed that all the data from the flight was secure. "Let me say the failure seems limited to the Zefiro 40," he added.
+
+Stéphane Israël, the CEO of Arianespace apologised to the satellite owners, the aerospace company Airbus Defence and Space.
+
+The two lost satellites would have been among the most powerful European optical imagers in space, able to resolve details on the ground as small as 30cm across.
+
+Airbus had previously lofted four Pléiades Neo satellites. The units five and six would have completed the planned constellation.
+
+An commission is being set up to investigate what happened. It is to be chaired by Arianespace and the European Space Agency (Esa), but will pull in outside experts.
+
+Only after the inquiry's findings are delivered and any remedies taken can Vega be expected to return to flight.
+
+For the previous failure, in November 2020, this was a gap of five months.
+
+Esa's head of flight programmes, Stefano Bianchi, said the agency and its partners would do whatever was necessary to get Vega flying again safely and reliably.
+
+"We were hit hard on this night very heavily and we shall react because Europe needs a Vega launcher which works each time," he told reporters.
+
+Attention, obviously, will focus the production of the rocket which is led by Italian prime contractor Avio.
+
+Its CEO, Giulio Ranzo, said the company "took full charge of the responsibility for this Vega-C failure", adding that his organisation would "support the independent inquiry commission with any information they may request, and then subsequently to follow rigorously the recommendations that they will come up with to improve in a radical manner the flight-worthiness of this new launch vehicle, Vega-C".
+
+Satellite operators in Europe were already chasing a limited number of rocket rides, and this failure complicate the situation still further.
+
+The war in Ukraine, and the resulting western sanctions, mean Russian Soyuz rockets - a mainstay of European space operations - are no longer on the market.
+
+The Ariane-5, Europe's biggest rocket, has only two more flights in early 2023, before it is withdrawn. The Ariane-6 follow-on, however, is not yet ready to fly. Its maiden mission is scheduled for the end of 2023. It will be some comfort that Vega's P120C first-stage worked perfectly as this is also to be used as a strap-on booster for the Ariane-6.
+
+"Neither Ariane-5 nor Ariane-6 are impacted by what has unfortunately happened tonight," confirmed Mr Israël.
+
+The shortage of rides recently prompted the European Space Agency to purchase two American launches.
+
+Its Euclid telescope and Hera asteroid missions will go up on SpaceX Falcon-9 vehicles in 2023 and 2024 respectively.
+
+Related Topics
+Earth observation
+Airbus Group
+European Space Agency
+Space exploration
